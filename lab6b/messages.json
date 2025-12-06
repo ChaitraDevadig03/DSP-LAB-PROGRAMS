@@ -1,0 +1,92 @@
+{
+  "user1": [
+    {
+      "id": "1755943760674_user1_user1",
+      "sender": "user1",
+      "recipient": "user1",
+      "encrypted_data": {
+        "encrypted_message": "ZS7glw9Yvga3xotrcqS+pg==",
+        "encrypted_session_key": "dwMtZN33Difv/KtTtDHvFcy4ivoHdW9A4WKG+cQshgRA4a5yV43z18NHXfk5wInHpmhhgRcxKPZHi/g6yfmd+3n7N5g4fyR6Ij0whfCWYzHrj2wtjxb6417thUhrKmtef/L6dnCu91D1oyjy6GAZqy91L+uDV+AbVT1BXaaATppSwsIPqIZNxBQdJJLVmN4dxOQuxi71DK9gM9WPscfZ8OUR7vypMoguUVY43uJQw5V55UNQc09m8lRP/KLJLsPmWynpM+wplowZUvN5PkhMS33NxEWdh9skiWK2KY1aDuIeTNKOUCiHkfG6swgEDi/OyXcg7DXZ95dVXrrNNDeSAA==",
+        "iv": "LvH65ln9dhNqwbmekmVALw=="
+      },
+      "timestamp": "2025-08-23T15:39:20.674071",
+      "read": true
+    },
+    {
+      "id": "1755943782864_user1_user1",
+      "sender": "user1",
+      "recipient": "user1",
+      "encrypted_data": {
+        "encrypted_message": "D5v966MAvFxjPEH9IEoZMg==",
+        "encrypted_session_key": "dB09AYRgg/5VajnZJUVIzcUxqlyFGeNFwBI4iYw52/qzVW6KT+HookaJIsgXTrN7vQ6+he4Xh7OZqfkh4dpONe3YO3g6nMRkDsISrAHkRpZVG2Q3q0ueSW7+CCXQYWO0B7SZTgNnZPXE25AK2H71Qm9/ZGHk7T8lKun81v+ltNYKjs5ZGzsH2II7FE2rX0T7FAUDXotL8fSdUoQF+68A+eOkffxRlZXmUadgxQIzHv2ifZVYwmVgZRMPN3Z3hXl4AtVvDeqQuPbxn7mSmeWWvzq8M7901s3VaXfc91rh0knvXTTTGDF237ywwWfLTGDys6hANOicFBwfU5PrgjDrBw==",
+        "iv": "blPyWb+NHMT/5Foe48/I+w=="
+      },
+      "timestamp": "2025-08-23T15:39:42.864246",
+      "read": true
+    },
+    {
+      "id": "1755943809808_user1_user1",
+      "sender": "user1",
+      "recipient": "user1",
+      "encrypted_data": {
+        "encrypted_message": "TmsJhPvLk6xL76pIO9yuBw==",
+        "encrypted_session_key": "Gjc/NIMSroGo/MtX3nGsqLcSMPOrDR/1fe3MaLpmI4qJ2yab/kYD73upnEZWc3FKyZN4zjciLYqoMfDKHd/8/tN2LEVPDmicTQ1QHmcmQAjw8RR+LoOr7JHm8O0atruaCVX6F9W30Aylo8GSixI00irToCXUSq9LvyLZ2pe9Myu6IsyOBNE4ou7wm6olU1L9vHNsxgO8gCGu5R49EwrTCPnF9MyS7dmMGx7se51wyaw70y5xxgrAwY5Ryu1iRmzhebsCEDBlL/yOhcYwhCYrzgaMLKiiw3Z0FS8qBeBGr0noLHfR7uSQJFAVxvhn18tOhB8Ruj5kAix5ihhYag3IcQ==",
+        "iv": "YO2ZFjdHj5mbd1Aba3DkEw=="
+      },
+      "timestamp": "2025-08-23T15:40:09.808259",
+      "read": true
+    },
+    {
+      "id": "1755943819910_user1_user1",
+      "sender": "user1",
+      "recipient": "user1",
+      "encrypted_data": {
+        "encrypted_message": "7fjRTr5vS0aX3oFw5ZMJog==",
+        "encrypted_session_key": "PS3W1zrOKL8n/jLWMIB3jP00n36m6CKxOLl4QxIvA9SDEwO1JV2Mp9mervSFoF7hs492UjhbkbU77sx+TE+l3ljGyMDDWZ1RfcjEazF1D/fbMuxvjMkXK8Tusq/0ko3x4Bt8PpwsVVOlqBw+xRgnITmPLQ9G3yVtShle3S8t1tS4v/vuSgxJayatS7XVSoa+VDzj1W0Gg4BT3vYKQJX5+9Cwm7k6mBI03LwDcIioDL6/mhgKLG/+AHNHJdf/waQQKJ0D6CbaDNQ3YuquNDjhFDGsagWvL9+3ux8gOmjtWPiJXnwS1SfGd2z4wC0SBFXGzoLJvUH8p8XFBA99CRyNUw==",
+        "iv": "95DxJsiRmNFKGdJhtm7eag=="
+      },
+      "timestamp": "2025-08-23T15:40:19.910452",
+      "read": true
+    }
+  ],
+  "chary": [
+    {
+      "id": "1755944245361_chary_chary",
+      "sender": "chary",
+      "recipient": "chary",
+      "encrypted_data": {
+        "encrypted_message": "CyXtpVgBizCLqRY7UVqO9A==",
+        "encrypted_session_key": "MrBSM7Wkrj12UqBkjTcwBL4bSaGLcdNAUHV0OIbH0NMFp9fwpjbqALHMhL9dtvKDJrJoEyq9avFf/C+E3LCSasw7Nx3YepPL4CC4Fo3OHBPojCidqrc9oNhpLez9fD7iA5jUWiRdZr77b2qGoOzf3ng+0OSIKBfStEULQudV7qWziEEGArzcaGFGpv+7TlIIkHt9cnlLuX0ePR2L0wvu/Kim+7BFa+EqBnkKU5ZuILLZfawUD8UXUDqbs1/joWvXDg6MCrw4i4iOhcKOkskTFAVC20XplOg6uoqfKsSiX3PHjjmiSgbrdWwQdh6kMs3Ds5mOwLqgOPHwLQuo/uk/Pg==",
+        "iv": "uFdIzj33CjsKzgmuDxwa+g=="
+      },
+      "timestamp": "2025-08-23T15:47:25.361068",
+      "read": true
+    }
+  ],
+  "use": [
+    {
+      "id": "1756055098773_use_use",
+      "sender": "use",
+      "recipient": "use",
+      "encrypted_data": {
+        "encrypted_message": "p34OGwse/MDIQNqdRZmKQQ==",
+        "encrypted_session_key": "OmEI5Ggrp46X/U4z2uEA4UOsm7pSj3vvU+x3K2JF3uhCbv067GUZdJcf4qpS7+XFnwnRtPO8oo36abyepGwiXIC8KQLUxGXXqWhmVTcKLX/L7OreyjqR/ygS65fkdChVbncIMPM1nCMzIsZkR1lZtbHYa8kDG4cTp9QgeCYyNYNWEkMYnNpij5J5tT3UP4j0imduB81BUtP1YZAjawm2wkf0DD6HREz7J6X8xQAvE7KfKsEgPrV2pLDpDtWIApxoXFbqraV4E37HJUeSHVf5IjsOWc0Zl7sxqqZPFfTHqm9zhM5g12MrUpN/+vQ2U0QvBdmrVga5uSxqsKS4pzsDeQ==",
+        "iv": "oK7GkYY4ee0I5ly/ni58Kg=="
+      },
+      "timestamp": "2025-08-24T22:34:58.773031",
+      "read": true
+    },
+    {
+      "id": "1756099555162_use_use",
+      "sender": "use",
+      "recipient": "use",
+      "encrypted_data": {
+        "encrypted_message": "F6xp/h+gBcD8dEIbP2mrRw==",
+        "encrypted_session_key": "Fxy/YHjnqs4/IGIU9yCmJWVyMNlwbsarS7whcaVLOmFVmSdJkhP0pYZu9J2nYCAWRzEvSCMWD0vOAVvR82oL3DE99MrMSF12smXGBV+h94DjD3DohFwor2+YzcWjiM09Dyxyrg6TDbKPeFzKnAHkR27tP8byv4EVGaMQvRoDklP9p6ej9Sw81jlsiCNPsJqwQWplc5sfuvPxV3+/w5SDUGqFXpQO2OUgj2eWopIK30MFHu1vIudXaSOcEiheKpue0GC1fTbI5m7xGdfVbvyZmNpmDwAks3Z6msHPZUQmuNps1nsq6VIJ2QpKsDgPn8SflUHDrmGCgfaj1Bi2iEKB5A==",
+        "iv": "MPflAq0tQSkissTZlwBYPg=="
+      },
+      "timestamp": "2025-08-25T10:55:55.162286",
+      "read": true
+    }
+  ]
+}

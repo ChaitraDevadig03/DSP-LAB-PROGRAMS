@@ -1,0 +1,11 @@
+Name,Email,Phone,Address,DOB,SSN,CreditCard,Income
+Alice Johnson,alice.johnson@example.com,9876543210,"12 Park Street, New York",1990-05-12,123-45-6789,4111111111111111,75000
+Bob Smith,bob.smith@example.com,9123456780,"45 Hill Road, Chicago",1985-09-23,987-65-4321,5500000000000004,64000
+Charlie Brown,charlie.brown@example.com,9988776655,"22 River Lane, Boston",1992-01-15,567-89-0123,340000000000009,82000
+David Lee,david.lee@example.com,8899776655,"78 Lakeview Ave, Seattle",1988-11-09,321-54-9876,6011000000000004,91000
+Eve Adams,eve.adams@example.com,9098765432,"34 Maple Dr, Austin",1995-07-30,654-32-1987,3530111333300000,60000
+Frank Wright,frank.wright@example.com,9765432189,"56 Ocean Blvd, Miami",1983-03-19,111-22-3333,30000000000004,95000
+Grace Kim,grace.kim@example.com,9871203456,"90 Sunset St, Denver",1991-12-02,444-55-6666,6331101999990016,72000
+Henry Ford,henry.ford@example.com,9012345678,"23 Oak Ave, Dallas",1994-04-17,777-88-9999,5610591081018250,88000
+Ivy Green,ivy.green@example.com,9321456789,"67 Pine Rd, San Jose",1989-08-22,222-33-4444,201400000000009,77000
+Jack White,jack.white@example.com,9654321890,"89 Elm St, Atlanta",1986-02-10,555-66-7777,3088000000000009,86000
